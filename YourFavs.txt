@@ -1,0 +1,23 @@
+class YourFavs{
+
+public void favActor(){
+System.out.println("Robert Downey Jr");
+}
+
+public void favMovie(){
+System.out.println("La La Land");
+}
+
+public void favPlace(){
+System.out.println("Bangalore");
+}
+
+public void favCountry(){
+System.out.println("India");
+}
+
+public void jobRole(){
+System.out.println("Web Dev");
+}
+
+}

@@ -1,0 +1,5 @@
+enum LabType{
+
+	ISE,CS,MECH,EC,CIVIL,CHEM,PHY;
+
+}
